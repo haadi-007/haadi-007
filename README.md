@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Haadi
+- 👋 Hi, I’m Haadi
 - 🛠️ **Interests**: Software Development, CyberSec, AI, ML, and Reverse Engineering
 - 📚 **Currently Learning**: Java GUI and Python
 - 🤝 **Looking to Collaborate On**: Any interesting projects

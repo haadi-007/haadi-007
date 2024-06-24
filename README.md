@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @haadi
-- 👀 I’m interested in Ai and ML
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+# 👋 Hi, I’m Haadi
+- 🛠️ **Interests**: Software Development, CyberSec, AI, ML, and Reverse Engineering
+- 📚 **Currently Learning**: Java GUI and Python
+- 🤝 **Looking to Collaborate On**: Any interesting projects
+- 📧 **Contact Me**: haadi42234@gmail.com
+
+
 
 <!---
 haadi-007/haadi-007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
